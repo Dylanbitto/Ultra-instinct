@@ -21,8 +21,8 @@ https://dylanbitto.github.io/Ultra-instinct/
 
 ![weather dashboard](assets/Weather-Dashboard.png)
 
-# Github Username
+## Github Username
 Dylanbitto
 
-# Github Email
+## Github Email
 dylanbitto5425@gmail.com
