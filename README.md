@@ -16,9 +16,10 @@ Previous searches are saved in localStorage and the five most recent searches ar
 * Bootstrap API
 
 ## Website
+https://dylanbitto.github.io/Ultra-instinct/
 
 
-![weather dashboard]
+![weather dashboard](assets/Weather-Dashboard.png)
 
 # Github Username
 Dylanbitto
